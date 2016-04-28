@@ -2547,11 +2547,6 @@ shortcodes page css
     height: 80px;
 }
 
-
-.imageHeader {
-    margin: auto;
-}
-
 .ImageHeaderDiv {
     padding-top: 1em;
     width: 100%;
@@ -2565,4 +2560,18 @@ shortcodes page css
 .subtitleSection {
     font-size: 2em;
     text-align: center;
+}
+
+#idAudioIndex {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 999;
+}
+
+img.opinionImage.img-circle.img-responsive{
+    margin: auto;
+}
+.imageHeader {
+    margin: auto;
 }
