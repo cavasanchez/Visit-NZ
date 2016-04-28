@@ -19,7 +19,7 @@ h6 {
 
 h1 {
     font-size: 36px;
-    color: #fff;
+    color: #4e4e4e;
 }
 
 h2 {
@@ -2545,4 +2545,24 @@ shortcodes page css
 
 #flag {
     height: 80px;
+}
+
+
+.imageHeader {
+    margin: auto;
+}
+
+.ImageHeaderDiv {
+    padding-top: 1em;
+    width: 100%;
+}
+
+.title {
+    text-align: center;
+}
+
+
+.subtitleSection {
+    font-size: 2em;
+    text-align: center;
 }
