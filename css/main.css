@@ -2547,6 +2547,7 @@ shortcodes page css
     height: 80px;
 }
 
+
 .imageHeader {
     margin: auto;
 }
@@ -2564,8 +2565,17 @@ shortcodes page css
     font-size: 2em;
     text-align: center;
 }
-#postal {
-    height: 200px;
-      border-style: solid;
-    border-width: 1px;
+
+#idAudioIndex {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 999;
 }
+
+img.opinionImage.img-circle.img-responsive{
+    margin: auto;
+}
+.imageHeader {
+    margin: auto;
+

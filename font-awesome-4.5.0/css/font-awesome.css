@@ -2084,3 +2084,7 @@
 .fa-percent:before {
   content: "\f295";
 }
+
+img.opinionImage .img-circle .img-responsive {
+    margin: auto;
+}
