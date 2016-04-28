@@ -1945,7 +1945,7 @@ ul.social_icons li a i {
 }
 
 #contact-page {
-    padding-top: 0;
+    padding-top: 20;
 }
 
 #contact-page .contact-form .form-group label {
@@ -2547,7 +2547,6 @@ shortcodes page css
     height: 80px;
 }
 
-
 .imageHeader {
     margin: auto;
 }
@@ -2561,8 +2560,12 @@ shortcodes page css
     text-align: center;
 }
 
-
 .subtitleSection {
     font-size: 2em;
     text-align: center;
+}
+#postal {
+    height: 200px;
+      border-style: solid;
+    border-width: 1px;
 }
