@@ -1945,7 +1945,7 @@ ul.social_icons li a i {
 }
 
 #contact-page {
-    padding-top: 0;
+    padding-top: 20;
 }
 
 #contact-page .contact-form .form-group label {
@@ -2547,6 +2547,11 @@ shortcodes page css
     height: 80px;
 }
 
+
+.imageHeader {
+    margin: auto;
+}
+
 .ImageHeaderDiv {
     padding-top: 1em;
     width: 100%;
@@ -2555,7 +2560,6 @@ shortcodes page css
 .title {
     text-align: center;
 }
-
 
 .subtitleSection {
     font-size: 2em;
@@ -2574,4 +2578,4 @@ img.opinionImage.img-circle.img-responsive{
 }
 .imageHeader {
     margin: auto;
-}
+
