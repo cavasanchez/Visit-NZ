@@ -2578,4 +2578,25 @@ img.opinionImage.img-circle.img-responsive{
 }
 .imageHeader {
     margin: auto;
+}
 
+.visit {
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.opinion.row {
+    padding-bottom: 20px;
+}
+
+
+.opinionText {
+    font-size: 16px;
+    color: gray;
+}
+
+.subtitle {
+    font-size:20px;
+    color: black;
+    padding: 20px;
+}
