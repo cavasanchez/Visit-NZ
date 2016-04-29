@@ -527,6 +527,10 @@ input.search-form:hover {
     padding-bottom: 40px;
 }
 
+.alert {
+    display: none;
+}
+
 .features {
     padding: 0;
 }
@@ -2547,7 +2551,6 @@ shortcodes page css
     height: 80px;
 }
 
-
 .imageHeader {
     margin: auto;
 }
@@ -2573,9 +2576,10 @@ shortcodes page css
     z-index: 999;
 }
 
-img.opinionImage.img-circle.img-responsive{
+img.opinionImage.img-circle.img-responsive {
     margin: auto;
 }
+
 .imageHeader {
     margin: auto;
 }
@@ -2589,14 +2593,30 @@ img.opinionImage.img-circle.img-responsive{
     padding-bottom: 20px;
 }
 
-
 .opinionText {
     font-size: 16px;
     color: gray;
 }
 
 .subtitle {
-    font-size:20px;
+    font-size: 20px;
     color: black;
     padding: 20px;
+}
+
+#postal {
+    border-style: solid;
+    border-width: 1px;
+}
+
+#textAndPicture {
+    padding-top: 2%;
+}
+
+#emailAndName {
+    padding-bottom: 2%
+}
+
+.img-clickable {
+    height: inherit;
 }

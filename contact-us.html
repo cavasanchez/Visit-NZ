@@ -55,15 +55,15 @@
     <section id="contact-page">
         <div class="container">
             <div class="center">
-                <h2>Manda tu postal</h2>
+                <h1>Manda tu postal</h1>
                 <p class="lead">Escribe tu mensaje, selecciona la foto que quieres enviar y manda a tu amigo una postal:</p>
             </div>
 
-
+            <h2>Selecciona la foto que quieres enviar:</h2>
             <div class="row col-sm-offset-1" id="image-selectable">
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
-                        <img class="img-clickable" src="images/nz1.jpg" alt="Imagen de postal 1">
+                        <img class="img-clickable" src="images/nz1.jpg" alt="Imagen de postal 1" style="min-height:220px;">
                         <div class="caption">
                             <h3>Río</h3>
                         </div>
@@ -71,7 +71,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
-                        <img class="img-clickable" src="images/nz2.jpg" alt="Imagen de postal 2">
+                        <img class="img-clickable" src="images/nz2.jpg" alt="Imagen de postal 2" style="min-height:220px;">
                         <div class="caption">
                             <h3>Prado</h3>
                         </div>
@@ -79,7 +79,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4">
                     <div class="thumbnail">
-                        <img class="img-clickable" src="images/nz3.jpg" alt="Imagen de postal 3">
+                        <img class="img-clickable" src="images/nz3.jpg" alt="Imagen de postal 3" style="min-height:220px;">
                         <div class="caption">
                             <h3>Montaña</h3>
                         </div>
@@ -87,34 +87,47 @@
                 </div>
             </div>
 
-            <div id=postal>
-                asas
-                <div class="col-sm-5 col-sm-offset-1">
-                    <input type="text" class="form-control" placeholder="Escribe el texto que quieres enviar"> </div>
-                <div class="col-sm-5 ">
-                    <div class="thumbnail">
-                        <img id="img-changeable" src="images/nz1.jpg" alt="Imagen de postal 1">
-                        <div class="caption">
-                            <h3>Río</h3>
+            <h2>Escribe el texto que quieres enviar:</h2>
+            <div class="row" id=postal>
+                <div class="row" id="textAndPicture">
+                    <div class="col-sm-5 col-sm-offset-1">
+                        <textarea type="text" class="form-control" rows="18" placeholder="Escribe el texto que quieres enviar">
+                        </textarea>
+                    </div>
+                    <div class="col-sm-5 ">
+                        <div class="thumbnail">
+                            <img id="img-changeable" src="images/nz1.jpg" alt="Imagen de postal 1" style="min-height:220px;">
+                            <div class="caption">
+                                <h3>Río</h3>
+                            </div>
                         </div>
+
                     </div>
                 </div>
+                <hr>
+                <div class="row" id="emailAndName">
 
+                    <form id="main-contact-form" class="contact-form" name="contact-form">
+                        <div class="col-sm-5 col-sm-offset-1">
+                            <div class="form-group">
+                                <label>Nombre del destinatario</label>
+                                <input type="text" name="name" class="form-control" required="required">
+                            </div>
+                            <div class="form-group">
+                                <label>Email del destinatario</label>
+                                <input type="email" name="email" class="form-control" required="required">
+                            </div>
+
+                            <div class="btn btn-primary btn-lg" id="enviar">¡Enviar postal!</div>
+                            <div class="alert alert-success alert-dismissable">
+                                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                                Postal enviada correctamente
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
             </div>
-            <form id="main-contact-form" class="contact-form" name="contact-form">
-                <div class="col-sm-5 col-sm-offset-1">
-                    <div class="form-group">
-                        <label>Nombre del destinatario</label>
-                        <input type="text" name="name" class="form-control" required="required">
-                    </div>
-                    <div class="form-group">
-                        <label>Email del destinatario</label>
-                        <input type="email" name="email" class="form-control" required="required">
-                    </div>
-
-                    <div class="btn btn-primary btn-lg">¡Enviar postal!</div>
-                </div>
-            </form>
 
 
         </div>

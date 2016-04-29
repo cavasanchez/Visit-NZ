@@ -19,6 +19,11 @@ function refreshImages() {
 }
 
 
-$('button').click(function () {
-    $('.alert').show()
+$('#enviar').click(function () {
+    $('.alert').show();
 })
+
+
+$(document).ready(function () {
+    $("#img-clickable").attr('height', 2000);
+});
