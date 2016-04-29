@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" xml:lang="es" xmlns="http://www.w3.org/1999/xhtml">
+
 
 <head>
     <meta charset="utf-8">
@@ -92,8 +93,10 @@
             <div class="row" id=postal>
                 <div class="row" id="textAndPicture">
                     <div class="col-sm-5 col-sm-offset-1">
-                        <textarea type="text" class="form-control" rows="18" placeholder="Escribe el texto que quieres enviar">
-                        </textarea>
+                        <label for="Contenido del mensaje">
+                            <textarea type="text" class="form-control" rows="18" placeholder="Escribe el texto que quieres enviar">
+                            </textarea>
+                        </label>
                     </div>
                     <div class="col-sm-5 ">
                         <div class="thumbnail">
@@ -112,12 +115,12 @@
                         <div class="col-sm-5 col-sm-offset-1">
                             <div class="form-group">
                                 <label for="Name of destination">Nombre del destinatario
-                                    <input type="text" name="name of destination" class="form-control" required="required">
+                                    <input id="texto" type="text" name="name of destination" class="form-control" required="required">
                                 </label>
                             </div>
                             <div class="form-group">
                                 <label for="email of destination">Email del destinatario
-                                    <input type="email" name="email of destination" class="form-control" required="required">
+                                    <input id="mail" type="email" name="email of destination" class="form-control" required="required">
                                 </label>
                             </div>
 
