@@ -219,7 +219,7 @@ ul.social-share li a:hover {
     color: #fff;
 }
 
-.search i {
+.search span {
     color: #fff;
 }
 
@@ -548,7 +548,7 @@ input.search-form:hover {
     margin-right: 25px;
 }
 
-.feature-wrap i {
+.feature-wrap span {
     font-size: 48px;
     height: 110px;
     width: 110px;
@@ -820,7 +820,7 @@ input.search-form:hover {
     color: #fff;
 }
 
-a.accordion-toggle i {
+a.accordion-toggle span {
     width: 45px;
     line-height: 44px;
     font-size: 20px;
@@ -830,12 +830,12 @@ a.accordion-toggle i {
     background: #c9c9c9;
 }
 
-.panel-heading.active a.accordion-toggle i {
+.panel-heading.active a.accordion-toggle span {
     background: darkred;
     color: #fff;
 }
 
-.panel-heading.active a.accordion-toggle.collapsed i {
+.panel-heading.active a.accordion-toggle.collapsed span {
     background: darkred;
     color: #fff;
 }
@@ -973,7 +973,7 @@ a.accordion-toggle i {
     padding: 30px 0;
 }
 
-.contact-info i {
+.contact-info span {
     width: 60px;
     height: 60px;
     font-size: 40px;
@@ -1026,7 +1026,7 @@ a.accordion-toggle i {
     border: 1px solid #ffbd20;
 }
 
-#carousel-slider a i {
+#carousel-slider a span {
     border: 1px solid #777;
     border-radius: 50%;
     font-size: 28px;
@@ -1048,11 +1048,11 @@ a.accordion-toggle i {
     width: inherit;
 }
 
-#carousel-slider .carousel-control.left i {
+#carousel-slider .carousel-control.left span {
     left: -25px
 }
 
-#carousel-slider .carousel-control.right i {
+#carousel-slider .carousel-control.right span {
     right: -25px;
 }
 
@@ -1237,7 +1237,7 @@ ul.tag li {
     margin-right: 5px;
 }
 
-ul.social_icons li a i {
+ul.social_icons li a span {
     border-radius: 50%;
     color: #FFFFFF;
     height: 25px;
@@ -1340,7 +1340,7 @@ ul.social_icons li a i {
     position: relative;
 }
 
-.team-bar i {
+.team-bar span {
     border-radius: 50%;
     color: #FFFFFF;
     display: block;
@@ -2213,7 +2213,7 @@ ul.pagination > li > a {
     padding: 5px 14px;
 }
 
-ul.pagination > li > a i {
+ul.pagination > li > a span {
     margin-left: 5px;
     margin-right: 5px;
 }
@@ -2311,7 +2311,7 @@ ul.sidebar-gallery {
     display: block;
 }
 
-.post_reply ul li a i {
+.post_reply ul li a span {
     border: 1px solid #DDDDDD;
     border-radius: 39px;
     color: #FFFFFF;
