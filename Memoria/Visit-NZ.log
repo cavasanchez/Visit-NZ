@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.5)  30 APR 2016 18:57
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.30)  30 APR 2016 19:11
+>>>>>>> origin/master
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.30)  30 APR 2016 19:11
 >>>>>>> origin/master
@@ -762,10 +766,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
 [3]) (./tema2.tex
 <<<<<<< HEAD
+<<<<<<< HEAD
 File: ./Fotos/logoURJC.jpg Graphic file (type jpg)
  <use ./Fotos/logoURJC.jpg>
 Package pdftex.def Info: ./Fotos/logoURJC.jpg used on input line 25.
 (pdftex.def)             Requested size: 172.5pt x 249.74786pt.
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 3--20
+
+ []
+
+<./Fotos/chrome-capture.png, id=107, 1440.38126pt x 859.21pt>
+File: ./Fotos/chrome-capture.png Graphic file (type png)
+
+<use ./Fotos/chrome-capture.png>
+Package pdftex.def Info: ./Fotos/chrome-capture.png used on input line 24.
+(pdftex.def)             Requested size: 327.74895pt x 195.50336pt.
+>>>>>>> origin/master
 =======
 Underfull \hbox (badness 10000) in paragraph at lines 3--20
 
@@ -783,6 +800,24 @@ Package pdftex.def Info: ./Fotos/chrome-capture.png used on input line 24.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+<./Fotos/firefox-capture.png, id=108, 1444.39626pt x 857.2025pt>
+File: ./Fotos/firefox-capture.png Graphic file (type png)
+
+<use ./Fotos/firefox-capture.png>
+Package pdftex.def Info: ./Fotos/firefox-capture.png used on input line 33.
+(pdftex.def)             Requested size: 327.74895pt x 194.5103pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+>>>>>>> origin/master
 =======
 
 Underfull \hbox (badness 10000) in paragraph at lines 28--29
@@ -803,7 +838,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ) [4]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 23.
 <<<<<<< HEAD
+<<<<<<< HEAD
  [5]
+=======
+ [5 <./Fotos/chrome-capture.png>] [6 <./Fotos/firefox-capture.png>]
+>>>>>>> origin/master
 =======
  [5 <./Fotos/chrome-capture.png>] [6 <./Fotos/firefox-capture.png>]
 >>>>>>> origin/master
@@ -824,10 +863,14 @@ Package rerunfilecheck Info: File `Visit-NZ.out' has not changed.
 
 LaTeX Warning: There were multiply-defined labels.
 
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 23.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
 <<<<<<< HEAD
  7223 strings out of 493304
  101079 string characters out of 6139872
@@ -845,10 +888,20 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  29i,9n,30p,462b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 >>>>>>> origin/master
+=======
+ 7420 strings out of 493029
+ 103322 string characters out of 6136234
+ 193911 words of memory out of 5000000
+ 10797 multiletter control sequences out of 15000+600000
+ 50903 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 29i,9n,30p,462b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+>>>>>>> origin/master
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/tex
+<<<<<<< HEAD
 <<<<<<< HEAD
 mf/fonts/type1/public/lm/lmri10.pfb>
 Output written on Visit-NZ.pdf (5 pages, 212333 bytes).
@@ -857,12 +910,24 @@ mf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri1
 0.pfb>
 Output written on Visit-NZ.pdf (6 pages, 1390186 bytes).
 >>>>>>> origin/master
+=======
+mf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri1
+0.pfb>
+Output written on Visit-NZ.pdf (6 pages, 1390186 bytes).
+>>>>>>> origin/master
 PDF statistics:
+<<<<<<< HEAD
 <<<<<<< HEAD
  156 PDF objects out of 1000 (max. 8388607)
  140 compressed objects within 2 object streams
  30 named destinations out of 1000 (max. 500000)
  142 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 158 PDF objects out of 1000 (max. 8388607)
+ 138 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> origin/master
 =======
  158 PDF objects out of 1000 (max. 8388607)
  138 compressed objects within 2 object streams
