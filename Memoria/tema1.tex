@@ -1,20 +1,23 @@
 \section{Introducción}
 Para realizar esta práctica final hemos elegido hacer una página web publicitaria de Nueva Zelanda, cuyo objetivo sería el de publicitar algunas actividades del país.
 
-Hemos aplicado los conocimientos aprendidos tanto en la asignatura de Interacción Persona-Ordenador, Desarrollo de Aplicaciones Web, y de la propia Multimedia.
+Hemos aplicado los conocimientos aprendidos tanto en la asignatura de Interacción Persona-Ordenador, Desarrollo de Aplicaciones Web, y de la propia Multimedia.\\
+
+La página está alojada en \href{http://visitnznow.esy.es/}{http://visitnznow.esy.es/}
 \section{Decisiones de diseño}
 \subsection{Estructura del código}
 Siguiendo los requisitos que se especificaban en el enunciado, la página está compuesta de 4 ficheros .html, junto con su correspondiente hoja de estilo.Los archivos son:
 \begin{itemize}
-	\item \textbf{Index.html: }
-	\item \textbf{places-to-visit.html: } se muestran algunas fotos de Nueva zelanda, así como un pequeño vídeo de presentación.
-	\item \textbf{where-eat.html: }un listado con loas opciones disponibles a la hora de elegir restaurante.
-	\item \textbf{contact.html: }
+	\item \textbf{Index.html: }página de bienvenida. Contiene un menú superior para la navegación y un footer que están presente en el resto de las vistas. Tiene también las opiniones de algunos supuestos clientes, así como algunas gráficas de satisfacción. Tiene disponible un pequeño reproductor de audio para escuchar el audio ne Nueva Zelanda. 
+	\item \textbf{places-to-visit.html: } se muestran algunas fotos de Nueva Zelanda, así como un pequeño vídeo de presentación de sus lugares más famosos. También tiene un pequeño navegador de Google Maps.
+	\item \textbf{where-eat.html: }un listado con loas opciones disponibles a la hora de elegir restaurante. Tiene una animación con una presentación gastronómica.
+	\item \textbf{contact.html: }Permite enviar una postal a un amigo. Puedes elegir una foto de la galería y escribir el cuerpo del mensaje. Finalmente tienes que especificar el nombre y la dirección de correo del destinatario.
 \end{itemize}
 
 \subsection{Decisiones para accesibilidad}
 
 Aunque en un principio pensamos un diseño con numerosos efectos, carruseles y animaciones, éstos no eran compatibles con conseguir una web accesible. Así que finalmente optamos por quitar todos estos efectos, pero tratando de mantener una presentación agradable y moderna.
+A la hora de pasar las validaciones de la W3C nos percatamos de los numerosos errores que habíamos cometido, por lo que tuvimos que quitar prácticamente los efectos que nos quedaban.
 
 \subsection{Desiones para responsive}
 La página utiliza el framework de html \textit{Bootstrap} para que la página sea responsive. La estructura de las columnas, así como el menú de navegación superior, se colapsan en caso de que se acceda a la página a través de un dispositivo con menor tamaño de pantalla.
