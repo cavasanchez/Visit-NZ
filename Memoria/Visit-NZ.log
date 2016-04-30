@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.5)  30 APR 2016 18:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.5)  30 APR 2016 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -604,7 +604,7 @@ LaTeX Info: Redefining \nameref on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
  (./portada.tex
-<./Fotos/logoURJC.jpg, id=68, 432.61626pt x 626.34pt>
+<./Fotos/logoURJC.jpg, id=72, 432.61626pt x 626.34pt>
 File: ./Fotos/logoURJC.jpg Graphic file (type jpg)
 
 <use ./Fotos/logoURJC.jpg>
@@ -660,7 +660,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-) (./tema2.tex [3]
+[3]) (./tema2.tex
 File: ./Fotos/logoURJC.jpg Graphic file (type jpg)
  <use ./Fotos/logoURJC.jpg>
 Package pdftex.def Info: ./Fotos/logoURJC.jpg used on input line 25.
@@ -669,9 +669,9 @@ Package pdftex.def Info: ./Fotos/logoURJC.jpg used on input line 25.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-)
+) [4]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 23.
- [4] [5]
+ [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 23.
  (./Visit-NZ.aux
 LaTeX Info: Redefining \. on input line 23.
@@ -680,26 +680,26 @@ LaTeX Info: Redefining \% on input line 23.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 23.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 23.
 Package rerunfilecheck Info: File `Visit-NZ.out' has not changed.
-(rerunfilecheck)             Checksum: FA048F3B2E296FFF813EF4166FDDF793;1118.
+(rerunfilecheck)             Checksum: 60B9A39EC1D1DDBB1ADD0DD24D7205CA;1191.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 23.
  ) 
 Here is how much of TeX's memory you used:
- 7217 strings out of 493304
- 101015 string characters out of 6139872
- 189362 words of memory out of 5000000
- 10522 multiletter control sequences out of 15000+600000
+ 7223 strings out of 493304
+ 101079 string characters out of 6139872
+ 190362 words of memory out of 5000000
+ 10523 multiletter control sequences out of 15000+600000
  47911 words of font info for 41 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,9n,28p,462b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,9n,28p,462b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmri10.pfb>
-Output written on Visit-NZ.pdf (5 pages, 206170 bytes).
+Output written on Visit-NZ.pdf (5 pages, 212333 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
- 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 140 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 142 words of extra memory for PDF output out of 10000 (max. 10000000)
 
