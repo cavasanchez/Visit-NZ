@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
 
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -91,8 +90,8 @@
             <div class="row" id=postal>
                 <div class="row" id="textAndPicture">
                     <div id="postaltext" class="col-md-6">
-                        <label for="name= texto-mensaje ">Contenido del mensaje</label>
-                        <textarea type="text " name="texto-mensaje " class="form-control " rows="17 " placeholder="Escribe el texto que quieres enviar "></textarea>
+                        <label for="texto-mensaje">Contenido del mensaje</label>
+                        <textarea type="text " name="texto-mensaje" class="form-control " rows="17 " placeholder="Escribe el texto que quieres enviar "></textarea>
                     </div>
                     <div class="col-md-6 ">
                         <div class="thumbnail ">
@@ -118,12 +117,13 @@
                                 <input id="email-of-destination " type="email " name="email-of-destination " class="form-control ">
                             </div>
 
-                            <input class="btn btn-primary btn-lg " id="enviar " type="submit " value="¡Enviar postal! ">
+                            <label for="send-postal">Nombre del destinatario </label>
+                            <input class="btn btn-primary btn-lg" id="send-postal" type="submit" name="send-postal" value="¡Enviar postal! ">
+
                             <div class="alert alert-success alert-dismissable ">
                                 <button type="button " class="close " data-dismiss="alert " aria-hidden="true ">&times;</button>
                                 Postal enviada correctamente
                             </div>
-
                         </div>
                     </form>
                 </div>
