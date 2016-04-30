@@ -19,7 +19,7 @@ function refreshImages() {
 }
 
 
-$('#enviar').click(function () {
+$('#send-postal').click(function () {
     $('.alert').show();
 })
 
