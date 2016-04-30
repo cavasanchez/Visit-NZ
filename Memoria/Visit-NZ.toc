@@ -4,12 +4,12 @@
 \contentsline {subsection}{\numberline {2.1}Estructura del c\IeC {\'o}digo}{3}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Decisiones para accesibilidad}{3}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Desiones para responsive}{3}{subsection.2.3}
-\contentsline {section}{\numberline {3}Resultados de la validaci\IeC {\'o}n}{3}{section.3}
-\contentsline {subsection}{\numberline {3.1}Resultados obtenidos}{3}{subsection.3.1}
+\contentsline {section}{\numberline {3}Resultados de la validaci\IeC {\'o}n}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Resultados obtenidos}{4}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}An\IeC {\'a}lisis personal}{4}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Tabla comparativa}{4}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}Google Chrome}{4}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Mozilla firefox}{5}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2}Mozilla firefox}{4}{subsubsection.3.3.2}
 \contentsline {subsubsection}{\numberline {3.3.3}Internet explorer}{5}{subsubsection.3.3.3}
 \contentsline {subsubsection}{\numberline {3.3.4}Safari}{5}{subsubsection.3.3.4}
 \contentsline {subsubsection}{\numberline {3.3.5}Konkeror}{5}{subsubsection.3.3.5}

@@ -1,7 +1,7 @@
 $(function () {
 
     $('.img-clickable').click(function () {
-
+        console.log("asas");
         $(".img-clickable").css('opacity', '1');
 
 
@@ -13,10 +13,6 @@ $(function () {
 
     });
 });
-
-function refreshImages() {
-    alert("asa");
-}
 
 
 $('#send-postal').click(function () {
