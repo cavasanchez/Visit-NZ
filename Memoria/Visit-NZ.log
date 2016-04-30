@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.30)  30 APR 2016 19:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.30)  30 APR 2016 21:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -629,6 +629,21 @@ LaTeX Info: Redefining \% on input line 23.
 
 LaTeX Warning: Label `fig: ejemplo' multiply defined.
 
+
+LaTeX Warning: Label `fig: ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig: ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig: ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig: ejemplo' multiply defined.
+
+
+LaTeX Warning: Label `fig: ejemplo' multiply defined.
+
 )
 \openout1 = `Visit-NZ.aux'.
 
@@ -757,7 +772,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
  []
 
 [3]) (./tema2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--20
+Underfull \hbox (badness 10000) in paragraph at lines 2--20
 
  []
 
@@ -780,15 +795,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 File: ./Fotos/firefox-capture.png Graphic file (type png)
 
 <use ./Fotos/firefox-capture.png>
-Package pdftex.def Info: ./Fotos/firefox-capture.png used on input line 33.
+Package pdftex.def Info: ./Fotos/firefox-capture.png used on input line 32.
 (pdftex.def)             Requested size: 327.74895pt x 194.5103pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [4]
+<./Fotos/explorer-capture.png, id=109, 910.40125pt x 511.9125pt>
+File: ./Fotos/explorer-capture.png Graphic file (type png)
+
+<use ./Fotos/explorer-capture.png>
+Package pdftex.def Info: ./Fotos/explorer-capture.png used on input line 40.
+(pdftex.def)             Requested size: 327.74895pt x 184.28836pt.
+ [4]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Fotos/opera-capture.png, id=116, 1444.39626pt x 856.19875pt>
+File: ./Fotos/opera-capture.png Graphic file (type png)
+
+<use ./Fotos/opera-capture.png>
+Package pdftex.def Info: ./Fotos/opera-capture.png used on input line 48.
+(pdftex.def)             Requested size: 327.74895pt x 194.28253pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Fotos/safari-capture.png, id=117, 1078.0275pt x 606.265pt>
+File: ./Fotos/safari-capture.png Graphic file (type png)
+
+<use ./Fotos/safari-capture.png>
+Package pdftex.def Info: ./Fotos/safari-capture.png used on input line 56.
+(pdftex.def)             Requested size: 327.74895pt x 184.32312pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Fotos/safari2-capture.png, id=118, 1078.0275pt x 606.265pt>
+File: ./Fotos/safari2-capture.png Graphic file (type png)
+
+<use ./Fotos/safari2-capture.png>
+Package pdftex.def Info: ./Fotos/safari2-capture.png used on input line 62.
+(pdftex.def)             Requested size: 327.74895pt x 184.32312pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Fotos/konqueror-capture.png, id=119, 1433.355pt x 836.12375pt>
+File: ./Fotos/konqueror-capture.png Graphic file (type png)
+
+<use ./Fotos/konqueror-capture.png>
+Package pdftex.def Info: ./Fotos/konqueror-capture.png used on input line 70.
+(pdftex.def)             Requested size: 327.74895pt x 191.18169pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--80
+
+ []
+
+[5 <./Fotos/chrome-capture.png>])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 23.
- [5 <./Fotos/chrome-capture.png>] [6 <./Fotos/firefox-capture.png>]
+ [6 <./Fotos/firefox-capture.png>] [7 <./Fotos/explorer-capture.png> <./Fotos/o
+pera-capture.png>] [8 <./Fotos/safari-capture.png> <./Fotos/safari2-capture.png
+>] [9 <./Fotos/konqueror-capture.png>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 23.
 
 (./Visit-NZ.aux
@@ -798,7 +880,7 @@ LaTeX Info: Redefining \% on input line 23.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 23.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 23.
 Package rerunfilecheck Info: File `Visit-NZ.out' has not changed.
-(rerunfilecheck)             Checksum: FA048F3B2E296FFF813EF4166FDDF793;1118.
+(rerunfilecheck)             Checksum: 3C5578E8A81300B2CC4681BFA6E649F5;1137.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -806,10 +888,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 23.
  ) 
 Here is how much of TeX's memory you used:
- 7420 strings out of 493029
- 103322 string characters out of 6136234
- 193911 words of memory out of 5000000
- 10797 multiletter control sequences out of 15000+600000
+ 7454 strings out of 493029
+ 104135 string characters out of 6136234
+ 193913 words of memory out of 5000000
+ 10818 multiletter control sequences out of 15000+600000
  50903 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,9n,30p,462b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -819,10 +901,10 @@ hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri1
 0.pfb>
-Output written on Visit-NZ.pdf (6 pages, 1390186 bytes).
+Output written on Visit-NZ.pdf (9 pages, 3117191 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
